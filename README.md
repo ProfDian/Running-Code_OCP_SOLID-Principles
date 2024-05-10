@@ -1,4 +1,4 @@
-Hai, Perkenlakan Saya Abdul Fattah Rahmadiansyah
+Hai, Perkenalkan Saya Abdul Fattah Rahmadiansyah
 
 Program ini merupakan tugas dari Mata Kuliah Metode Numerik.
 Program ini merupakan program untuk menyelesaikan sistem persamaan linier 2 sampai 4 variabel yang menyediakan 3 metode yaitu
